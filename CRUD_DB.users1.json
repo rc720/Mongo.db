@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6a15b9b4b250d1bd03abc115"
+  },
+  "name": "John",
+  "age": 30,
+  "email": "john_new@gmail.com",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a15b9b4b250d1bd03abc116"
+  },
+  "name": "Alice",
+  "age": 28,
+  "email": "alice@gmail.com",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a15b9b4b250d1bd03abc117"
+  },
+  "name": "Sam",
+  "age": 36,
+  "email": "sam@gmail.com",
+  "country": "Canada"
+}]

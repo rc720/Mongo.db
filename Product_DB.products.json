@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6a15bc9cb250d1bd03abc119"
+  },
+  "name": "Laptop",
+  "category": "Electronics",
+  "price": 55000,
+  "quantity": 9
+},
+{
+  "_id": {
+    "$oid": "6a15bc9cb250d1bd03abc11b"
+  },
+  "name": "Shoes",
+  "category": "Fashion",
+  "price": 2500,
+  "quantity": 19
+},
+{
+  "_id": {
+    "$oid": "6a15bc9cb250d1bd03abc11c"
+  },
+  "name": "Watch",
+  "category": "Accessories",
+  "price": 3000,
+  "quantity": 14
+},
+{
+  "_id": {
+    "$oid": "6a15bc9cb250d1bd03abc11d"
+  },
+  "name": "Phone",
+  "category": "Electronics",
+  "price": 20000,
+  "quantity": 4
+}]
